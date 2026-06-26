@@ -12,21 +12,15 @@
 
 </div>
 
----
 
-
-### 🎯 Current Focus
-
-> **Spring AI • MCP • AI Agents • Ollama • Azure OpenAI • Java 21 • Microservices • Kubernetes**
 
 ---
 ## 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,nodejs,postgres,mysql,docker,kubernetes,azure,git,github,vscode,idea,maven,gradle,postman&perline=9"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,nodejs,postgres,mysql,docker,kubernetes,azure,git,github,vscode,idea,maven,postman&perline=16"/>
 </p>
----
 
 # 🌟 Featured Projects
 
