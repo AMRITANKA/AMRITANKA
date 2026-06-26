@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Amritanka Pal
 
-### 🚀 Senior Software Engineer • Java • Spring Boot • AI • Cloud
+### 🚀  Software Developer with expertise in Java, Spring Boot, Microservices, Cloud Technologies, and AI-powered systems. Passionate about designing clean, scalable architectures and leveraging modern AI solutions to build innovative, high-performance applications.
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+Scalable+Java+Applications;Spring+Boot+%7C+Microservices+%7C+AI;Spring+AI+%7C+Azure+%7C+Docker;Exploring+MCP+%7C+RAG+%7C+LLMs;" />
 
@@ -14,15 +14,6 @@
 
 ---
 
-# 💡 About Me
-
-💻 Software Engineer with experience building enterprise-grade Java applications.
-
-🤖 Passionate about Artificial Intelligence, Spring AI, MCP, Agentic AI and Retrieval-Augmented Generation (RAG).
-
-☁ Building cloud-native applications using Azure, Docker and modern DevOps practices.
-
-📚 Constantly learning modern software architecture and AI technologies.
 
 ### 🎯 Current Focus
 
@@ -33,10 +24,8 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,node,postgres,mysql,docker,kubernetes,azure,git,github,githubaction,vscode,idea,maven,gradle,postman,llm,rag,ollama&perline=9" />
-
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,nodejs,postgres,mysql,docker,kubernetes,azure,git,github,vscode,idea,maven,gradle,postman&perline=9"/>
 </p>
-
 ---
 
 # 🌟 Featured Projects
