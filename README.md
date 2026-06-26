@@ -24,23 +24,16 @@
 
 📚 Constantly learning modern software architecture and AI technologies.
 
-🎯 Current Focus
+### 🎯 Current Focus
 
-- Spring AI
-- MCP (Model Context Protocol)
-- AI Agents
-- Ollama
-- Azure OpenAI
-- Java 21
-- Microservices
-- Kubernetes
+> **Spring AI • MCP • AI Agents • Ollama • Azure OpenAI • Java 21 • Microservices • Kubernetes**
 
 ---
 ## 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,postgres,mysql,docker,kubernetes,azure,git,github,vscode,idea,maven,gradle,postman&perline=9" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,node,postgres,mysql,docker,kubernetes,azure,git,github,githubaction,vscode,idea,maven,gradle,postman,llm,rag,ollama&perline=9" />
 
 </p>
 
