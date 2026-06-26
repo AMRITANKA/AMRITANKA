@@ -36,61 +36,13 @@
 - Kubernetes
 
 ---
+## 💻 Tech Stack
 
-# 🚀 Tech Stack
+<p align="center">
 
-## Languages
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,postgres,mysql,docker,kubernetes,azure,git,github,vscode,idea,maven,gradle,postman&perline=9" />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
----
-
-## Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity)
-![Hibernate](https://img.shields.io/badge/Hibernate-brown?style=for-the-badge)
-
----
-
-## AI
-
-![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
-
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge)
-
-![RAG](https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge)
-
-![MCP](https://img.shields.io/badge/MCP-orange?style=for-the-badge)
-
-![LLM](https://img.shields.io/badge/LLM-darkgreen?style=for-the-badge)
-
----
-
-## Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-
-![PGVector](https://img.shields.io/badge/PGVector-blue?style=for-the-badge)
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-![H2](https://img.shields.io/badge/H2Database-blue?style=for-the-badge)
-
----
-
-## Cloud & DevOps
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+</p>
 
 ---
 
