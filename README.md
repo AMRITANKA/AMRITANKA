@@ -4,7 +4,7 @@
 
 ### 🚀 Senior Software Engineer • Java • Spring Boot • AI • Cloud
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+Scalable+Java+Applications;Spring+Boot+%7C+Microservices+%7C+AI;Spring+AI+%7C+Azure+%7C+Docker;Exploring+MCP+%7C+RAG+%7C+LLMs;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+Scalable+Java+Applications;Spring+Boot+%7C+Microservices+%7C+AI;Spring+AI+%7C+Azure+%7C+Docker;Exploring+MCP+%7C+RAG+%7C+LLMs;" />
 
 [![Website](https://img.shields.io/badge/Website-amritankadev.in-blue?style=for-the-badge)](https://amritankadev.in)
 
